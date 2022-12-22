@@ -47,6 +47,7 @@ I am a full stack developer specializing in React.js, TypeScript, JavaScript, an
 
 ## Github Stats
 ![Naoki's GitHub stats](https://github-readme-stats.vercel.app/api?username=nk18chi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk18chi&layout=compact&theme=vision-friendly-dark)
 
 ## Faves
 ### [A Philosophy of Software Design](https://www.amazon.ca/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
